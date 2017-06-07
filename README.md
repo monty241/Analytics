@@ -12,7 +12,7 @@ De doelstelling is om te komen tot een breed gedragen generiek toepasbare set an
 + Verlagen drempel toepassen data-analyse
 + Efficiency in bijvoorbeeld audit, samenstel of fiscale compliance/adviespraktijk.
 
-Hierbij wordt uit gegevaan van een aantal veronderstellingen:
+Hierbij wordt uit gegaan van een aantal veronderstellingen:
 
 1. De analyses moeten kunnen worden uitgevoerd met de onder gebruikers veel voorkomende analyse-tools. 
 2. Alhoewel de auditfile-familie vaak de databron zal zijn, is de inhoud van de analyse een belangrijk uitgangspunt. Dit betekent dat sommige analyses niet uitgevoerd kunnen worden met alleen auditfiles maar dat data uit andere bronnen noodzakelijk is. 
