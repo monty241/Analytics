@@ -4,6 +4,18 @@ local remark Saldibalans per periode
 
 local remark Voor gebruik met de Invantive XML Auditfile Financieel v3.2 driver.
 
+select *
+from   TrialBalancePerPeriod
+order 
+by     interface_url
+,      company_name
+,      fiscal_year_number
+,      transaction_periodnumber
+,      accid
+,      accdesc
+
+local remark Of gebruik de code uit de view TrialBalancePerPeriod:
+
 select dtl.interface_url
 ,      dtl.company_name
 ,      dtl.fiscal_year_number
